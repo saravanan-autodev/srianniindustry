@@ -1,0 +1,228 @@
+@charset "utf-8";
+/* CSS Document */
+
+.stage
+{
+position:absolute;
+background-image:url(images/line.jpg);
+background-color:#0066FF;
+top:0px;
+left:0px;
+height:970px;
+width:1663px;
+}
+.container
+{
+position:relative;
+width:950px;
+height:900px;
+}
+.header
+{
+position:absolute;
+background-image:url(images/head.jpg);
+top:0px;
+left:0px;
+width:950px;
+height:171px;
+background-repeat:repeat-x;
+}
+.menu_bar
+{
+position:absolute;
+background-image:url(images/menu_bar_new.jpg);
+background-repeat:repeat-x;
+top:169px;
+left:0px;
+width:950px;
+height:42px;
+}
+.menu
+{
+position:absolute;
+font-family:"serifa BT";
+font-size:20px;
+color:#7C75C6;
+width:150px;
+height:27.2;
+left:15px;
+top:10px;
+text-align:left;
+}
+.menu a
+{
+text-decoration:none;
+color:#7C75C6;
+}
+.menu a:hover
+{
+color:#FFFFFF;
+text-decoration:none;
+}
+.menu_split
+{
+position:absolute;
+background-image:url(images/menu_split.jpg);
+height:35px;
+width:4px;
+top:4px;
+left:94px;
+}
+.body
+{
+position:absolute;
+background-color:#000000;
+height:651px;
+width:950px;
+left:0px;
+top:210.0px;
+}
+.body_text
+{
+	position:absolute;
+	font-family:"serifa BT";
+	color:#CCCCCC;
+	font-size:20px;
+	height:75px;
+	width:409px;
+	top:20px;
+	left:150px;
+	text-align:left;
+}
+.body_flash
+{
+position:absolute;
+top:20px;
+left:800px;
+height:122.3px;
+width:121.1px;
+}
+.body_gallery
+{
+position:absolute;
+top:60px;
+left:110px;
+width:500px;
+height:500px;
+}
+.body_feedback
+{
+position:absolute;
+top:30px;
+left:100px;
+height:450px;
+width:600px;
+}
+.body_slideshow
+{
+position:absolute;
+top:390px;
+left:605px;
+height:242px; 
+width:300px;
+}
+.footer
+{
+position:absolute;
+background-image:url(images/bottom_bar.jpg);
+background-repeat:repeat-x;
+width:950px;
+height:100px;
+top:861px;
+left:0px;
+}
+.menu_footer
+{
+position:absolute;
+font-family:"serifa BT";
+font-size:10px;
+height:15.6px;
+width:150px;
+top:30px;
+left:326px;
+color:#666666;
+letter-spacing:1px;
+}
+
+
+
+
+
+
+/* CSS Document */
+
+/*Enquiry Form Starts Here*/
+.input_area_head
+{
+position:relative;
+top:20px;
+left:0px;
+width:430px;
+padding-bottom:10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+text-align:center;
+font-weight:bold;
+color:#CCCCCC;
+}
+.input_area_container
+{
+position:absolute;
+top:10px;
+left:50px;
+width:430px;
+height:450px;
+}
+.input_area
+{
+position:relative;
+padding-top:10px;
+left:0px;
+width:430px;
+height:400px;
+
+}
+.input_container
+{
+position:relative;
+left:0px;
+height:25px;
+width:430px;
+padding-top:10px;
+}
+.input_label
+{
+position:absolute;
+top:12px;
+left:0px;
+width:150px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#999999;
+}
+.input_textbox
+{
+position:absolute;
+left:170px;
+width:250px;
+height:25px;
+padding-top:3px;
+border:1px solid #333333;
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+color:#333333;
+}
+.input_textarea
+{
+position:absolute;
+left:170px;
+width:250px;
+padding-top:3px;
+border:1px solid #333333;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#333333;
+}
+
+/*Container ends Here*/
